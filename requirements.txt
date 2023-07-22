@@ -2,6 +2,7 @@
 Django==3.2
 djangorestframework==3.13.1
 djangorestframework-simplejwt==5.1.0
+pip install django-ckeditor
 
 # Photo & Image
 Pillow==9.1.0
